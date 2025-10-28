@@ -1,0 +1,5 @@
+[
+  {"product_id": 707, "color": "black", "size": "m",  "tags": ["commuter", "new"]},
+  {"product_id": 708, "color": "red",   "size": "l",  "tags": ["sale"]},
+  {"product_id": 709, "color": " blue ", "size": "XL", "tags": []}
+]

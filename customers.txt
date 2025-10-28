@@ -1,0 +1,5 @@
+[
+  {"customer_id": 11000, "account_number": "AW00011000", "customer_type": "Store"},
+  {"customer_id": 11001, "account_number": "AW00011001", "customer_type": "Person"},
+  {"customer_id": 11002, "account_number": " AW00011002 ", "customer_type": ""}
+]
